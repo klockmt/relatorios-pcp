@@ -1,0 +1,14 @@
+# Planilhas e dados de trabalho (não versionar)
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+*.csv
+*.rar
+*.zip
+
+# Saídas geradas
+integracao_lancamentos_*.csv
+
+# Configurações locais
+config.local.*
